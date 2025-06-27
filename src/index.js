@@ -70,7 +70,7 @@ saveBtn.addEventListener("click", () => {
             colors: colors
         };
 
-        fetch(`http://localhost:3000/designs/${currentDesignId}`, {
+        fetch(`https://backendapi-plfm.onrender.com/designs/${currentDesignId}`, {
             method: "PUT",
             headers: {
                 "Content-Type": "application/json"
@@ -101,7 +101,7 @@ saveBtn.addEventListener("click", () => {
             colors: colors
         };
 
-        fetch("http://localhost:3000/designs", {
+        fetch("https://backendapi-plfm.onrender.com/designs", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -135,7 +135,7 @@ downloadBtn.addEventListener("click", () => {
 loadBtn.addEventListener("click", () => {
     console.log("Trying to fetch designs...");
 
-    fetch("http://localhost:3000/designs")
+    fetch("https://backendapi-plfm.onrender.com/designs")
         .then(res => res.json())
         .then(data => {
             console.log("Received data:", data);
@@ -183,7 +183,7 @@ deleteBtn.addEventListener("click", () => {
     const confirmDelete = confirm("Are you sure you want to delete this design?");
     if (!confirmDelete) return;
 
-    fetch(`http://localhost:3000/designs/${currentDesignId}`, {
+    fetch(`https://backendapi-plfm.onrender.com/designs/${currentDesignId}`, {
         method: "DELETE"
     })
     .then(() => {
