@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Crochet Pattern Designer</title>
+        <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <h1>The Custom Faerie</h1>
+        <p class="tagline">Unleash your inner yarn faerie✨🧚‍♀️</p>
+        <div class="controls">
+            
+            <label for="gridSize">Grid Size</label>
+            <input type="number" id="gridSize" min="1" max="50" value="10">
+
+            <label for="colorPicker">Pick a Color</label>
+            <input type="color" id="colorPicker" value="#000000">
+
+            <button id="generateGrid">Generate Grid</button>
+            <button id="saveGrid">Save Design</button>
+            <button id="loadGrids">Load Designs</button>
+            <button id="clearGrid">Clear Grid</button>
+            <button id="eraserBtn">Toggle Eraser</button>
+            <button id="deleteGrid">Delete Design</button>
+            <button id="downloadGrid">Download Image</button>
+        </div>
+        <div id="grid"></div>
+
+        <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+        <script src="src/index.js"></script>
+    </body>
+</html>
