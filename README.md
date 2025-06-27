@@ -66,3 +66,20 @@ The-Custom-Faerie/
 
 ## Credits
 This app was created by Ashley Mararo, a creative and crochet enthusiast.
+
+## 🧚‍♀️ License - The Custom Faerie Edition
+
+MIT License
+
+Copyright © 2025 Ashley Mararo
+
+Permission is hereby granted, free of charge, to any kind soul who receives a copy of this enchanted software and its magical documentation files (the “Software”), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software freely.
+
+Those granted this license may do all these things with joy, as long as they include this copyright notice and this permission in all copies or substantial portions of the Software.
+
+This Software is gifted "as is", without any express or implied warranties — including (but not limited to) the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The faerie (aka the author) shall not be held liable for for any claim, damage, or other liability, whether in an action of contract, tort, or otherwise, arising from the use of this Software.
+
+Just be kind: don’t claim this magical work as your own without credit. A sprinkle of acknowledgment goes a long way.  
+Sharing is caring, gate keeping isn’t cute.
+
+Fly responsibly. 🌸✨
