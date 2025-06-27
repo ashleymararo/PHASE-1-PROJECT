@@ -25,7 +25,7 @@ The Custom Faerie is a web app that lets you design your own crochet patterns on
 - Download your design as an image for printing or reference.
 
 ## Deployment
-[Try out The Custom Faerie here]()
+[Try out The Custom Faerie here]( https://ashleymararo.github.io/PHASE-1-PROJECT/)
 
 ## Local Development
 
