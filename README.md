@@ -67,7 +67,7 @@ The-Custom-Faerie/
 ## Credits
 This app was created by Ashley Mararo, a creative and crochet enthusiast.
 
-## 🧚‍♀️ License - The Custom Faerie Edition
+## License 
 
 MIT License
 
